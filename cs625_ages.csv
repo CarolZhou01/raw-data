@@ -1,0 +1,58 @@
+State ,Abbrv,Fips,%<18,%>65
+  United States ,U.S.,00,24.3,12.8
+Alabama ,AL,01,24.1,13.8
+Alaska ,AK,02,26.2,7.3
+Arizona ,AZ,04,26.3,13.3
+Arkansas ,AR,05,24.6,14.3
+California ,CA,06,25.5,11.2
+Colorado ,CO,08,24.4,10.4
+Connecticut ,CT,09,23.2,13.7
+Delaware ,DE,10,23.6,13.9
+District of Columbia ,DC,11,18.9,11.9
+Florida ,FL,12,21.9,17.4
+Georgia ,GA,13,26.3,10.1
+Hawaii ,HI,15,22.1,14.8
+Idaho ,ID,16,27.1,12.0
+Illinois ,IL,17,24.6,12.2
+Indiana ,IN,18,24.9,12.8
+Iowa ,IA,19,23.7,14.8
+Kansas ,KS,20,25.0,13.1
+Kentucky ,KY,21,23.6,13.3
+Louisiana ,LA,22,25.1,12.3
+Maine ,ME,23,20.9,15.1
+Maryland ,MD,24,23.8,12.1
+Massachusetts ,MA,25,22.0,13.4
+Michigan ,MI,26,23.9,13.0
+Minnesota ,MN,27,24.0,12.5
+Mississippi ,MS,28,26.1,12.7
+Missouri ,MO,29,24.1,13.6
+Montana ,MT,30,22.8,14.2
+Nebraska ,NE,31,25.1,13.5
+Nevada ,NV,32,25.7,11.4
+New Hampshire ,NH,33,22.3,12.9
+New Jersey ,NJ,34,23.6,13.3
+New Mexico ,NM,35,25.3,13.1
+New York ,NY,36,22.6,13.4
+North Carolina ,NC,37,24.3,12.4
+North Dakota ,ND,38,22.3,14.7
+Ohio ,OH,39,23.8,13.7
+Oklahoma ,OK,40,24.9,13.5
+Oregon ,OR,41,22.9,13.3
+Pennsylvania ,PA,42,22.2,15.4
+Rhode Island ,RI,44,21.8,14.1
+South Carolina ,SC,45,23.8,13.3
+South Dakota ,SD,46,24.7,14.4
+Tennessee ,TN,47,23.8,13.2
+Texas ,TX,48,27.7,10.2
+Utah ,UT,49,31.1,9.0
+Vermont ,VT,50,20.8,14.0
+Virginia ,VA,51,23.5,12.1
+Washington ,WA,53,23.5,12.0
+West Virginia ,WV,54,21.3,15.7
+Wisconsin ,WI,55,23.4,13.3
+Wyoming ,WY,56,24.1,12.3
+,,,,
+,,,,
+"Source: U.S. Census Bureau, ",,,,
+"""Annual Estimates of the Resident Population by Sex and Age for States and for Puerto Rico: April 1, 2000 to July 1, 2008""",,,,
+"(released May 14, 2009).",,,,
