@@ -1,0 +1,68 @@
+SAGDP1 State annual gross domestic product (GDP) summary,,,,
+SAGDP1 State annual gross domestic product (GDP) summary,,,,
+State or DC,,,,
+GeoFips,GeoName,gdp-2023,pop-2023,capita2023
+00000,United States,22376906,334914895,66813.7
+01000,Alabama,241753.1,5108468,47324.0
+02000,Alaska,53006.3,733406,72274.2
+04000,Arizona,414273.3,7431344,55746.8
+05000,Arkansas,140784.7,3067732,45892.1
+06000,California,3233151,38965193,82975.4
+08000,Colorado,428040.4,5877610,72825.6
+09000,Connecticut,282478.5,3617176,78093.7
+10000,Delaware,74262.8,1031890,71967.7
+11000,District of Columbia,145493.3,678972,214284.7
+12000,Florida,1279118.8,22610726,56571.3
+13000,Georgia,661114.6,11029227,59942.1
+15000,Hawaii,86887.7,1435138,60543.1
+16000,Idaho,94914.3,1964726,48309.2
+17000,Illinois,875568.8,12549689,69768.2
+18000,Indiana,401472.2,6862199,58504.9
+19000,Iowa,200442.3,3207004,62501.4
+20000,Kansas,182349.6,2940546,62012.2
+21000,Kentucky,225234.6,4526154,49762.9
+22000,Louisiana,238195.9,4573749,52078.9
+23000,Maine,73780.8,1395722,52862.1
+24000,Maryland,420996.9,6180253,68119.7
+25000,Massachusetts,615148.4,7001399,87860.8
+26000,Michigan,547771.8,10037261,54573.8
+27000,Minnesota,383618.6,5737915,66856.8
+28000,Mississippi,114949.8,2939690,39102.7
+29000,Missouri,344115.4,6196156,55536.9
+30000,Montana,55192.6,1132812,48721.8
+31000,Nebraska,144182.9,1978379,72879.3
+32000,Nevada,192215.6,3194176,60176.9
+33000,New Hampshire,91254.7,1402054,65086.4
+34000,New Jersey,656480.3,9290841,70658.9
+35000,New Mexico,105463.3,2114371,49879.3
+36000,New York,1775714.1,19571216,90730.9
+37000,North Carolina,625681.9,10835491,57743.8
+38000,North Dakota,58014.8,783926,74005.5
+39000,Ohio,698217.3,11785935,59241.6
+40000,Oklahoma,201658.8,4053824,49745.3
+41000,Oregon,260110.8,4233358,61443.1
+42000,Pennsylvania,789502.3,12961683,60910.5
+44000,Rhode Island,63172.6,1095962,57641.2
+45000,South Carolina,259930.2,5373555,48372.1
+46000,South Dakota,56309.3,919318,61251.2
+47000,Tennessee,425409.7,7126489,59694.1
+48000,Texas,2032932.9,30503301,66646.3
+49000,Utah,219180.7,3417734,64130.4
+50000,Vermont,35073.5,647464,54170.6
+51000,Virginia,590802.2,8715698,67786.0
+53000,Washington,672125.3,7812880,86027.9
+54000,West Virginia,80135.5,1770071,45272.5
+55000,Wisconsin,336460.6,5910955,56921.5
+56000,Wyoming,39322,584057,67325.6
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Legend/Footnotes,,,,
+"1. Real GDP is in millions of chained 2017 dollars. Calculations are performed on unrounded data. Chained (2017) dollar series are calculated as the product of the chain-type quantity index and the 2017 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The difference between the United States and sum-of-states reflects federal military and civilian activity located overseas, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP.",,,,
+"  Last updated: March 29, 2024- new statistics for 2023.",,,,
